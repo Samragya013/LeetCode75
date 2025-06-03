@@ -1,6 +1,6 @@
- 🔍 Problem: Merge Strings Alternately
+🔍 Problem: Merge Strings Alternately
 
- 🧵 Topic: Two Pointers & String Manipulation
+🧵 Topic: Two Pointers & String Manipulation
 
 🧠 What I Learned:
 
