@@ -1,10 +1,11 @@
+🧮 Greatest Common Divisor of Strings
+Category: Math + String
 
+What I Learned: Used GCD logic on string lengths and string prefix matching.
 
+Key Skill: Applying numeric GCD in a string context.
 
-
-
-
-
+Code:
 
 int gcd(int a, int b) {
     if (b == 0) {
