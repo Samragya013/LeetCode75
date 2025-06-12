@@ -1,14 +1,12 @@
-🔍 Problem: Merge Strings Alternately
+🧵 Merge Strings Alternately
+Category: Two Pointers
 
-🧵 Topic: Two Pointers & String Manipulation
+What I Learned: Practiced merging two strings by alternating characters using a clean, loop-based logic.
 
-🧠 What I Learned:
+Key Skill: Iterating in parallel through two strings.
 
-I gained a stronger understanding of how to apply the two-pointer technique to iterate over multiple inputs simultaneously, a powerful pattern frequently used in string and array problems.
-I learned the importance of handling edge cases, such as when strings are of unequal lengths — ensuring that the algorithm remains robust and doesn’t overlook leftover characters.
-
-💡 These seemingly simple problems hold a lot of subtle insights — and this one reminded me that solid programming is often about anticipating variations, not just solving the base case.
-
+Code:
+    
 char * mergeAlternately(char * word1, char * word2){
     int len1 = strlen(word1), len2 = strlen(word2);
     char* result = malloc(len1 + len2 + 1);
