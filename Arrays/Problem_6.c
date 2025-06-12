@@ -1,3 +1,12 @@
+🔄 Reverse Words in a String
+Category: String Manipulation
+
+What I Learned: Reversed entire sentence by handling trimming and word order.
+
+Key Skill: Token-based string manipulation (manual in C).
+
+Code :
+
 void reverse(char* begin, char* end) {
     char temp;
     while (begin < end) {
