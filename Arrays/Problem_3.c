@@ -1,6 +1,12 @@
-**
- * Note: The returned array must be malloced, assume caller calls free().
- */
+🍭 Kids With the Greatest Number of Candies
+Category: Array
+
+What I Learned: Compared each element with the global max to make boolean decisions.
+
+Key Skill: Array max comparison with conditionals.
+
+Code:
+
 bool* kidsWithCandies(int* candies, int candiesSize, int extraCandies, int* returnSize) {
     int maxCandies = candies[0];
 
