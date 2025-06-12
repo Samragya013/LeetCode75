@@ -1,3 +1,12 @@
+🔁 Reverse Vowels of a String
+Category: Two Pointers
+
+What I Learned: Used two pointers to selectively reverse only vowels.
+
+Key Skill: Conditional swapping with character filters.
+
+Code:
+
 bool isVowel(char c) {
     char vowels[] = "aeiouAEIOU";
     for (int i = 0; vowels[i] != '\0'; i++) {
