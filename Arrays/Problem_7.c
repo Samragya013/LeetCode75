@@ -1,3 +1,12 @@
+✖️ Product of Array Except Self
+Category: Prefix Product
+
+What I Learned: Built prefix and suffix products in O(n) time without division.
+
+Key Skill: Efficient pre-computation techniques.
+
+Code:
+
 int* productExceptSelf(int* nums, int numsSize, int* returnSize) {
     int n = numsSize;
     int* ans = (int*)malloc(n * sizeof(int));
