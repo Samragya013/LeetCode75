@@ -1,6 +1,9 @@
-1️⃣ Move Zeroes
+️Move Zeroes
+
 Category: Two Pointers
+    
 What I Learned:
+
 ✅ How to use two pointers to rearrange elements in-place without extra space
 ✅ Improved understanding of maintaining relative order of non-zero elements
 ✅ Optimized space and time (O(n))
