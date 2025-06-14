@@ -8,6 +8,8 @@ What I Learned:
 ✅ Improved understanding of maintaining relative order of non-zero elements
 ✅ Optimized space and time (O(n))
 
+Code :
+
 void moveZeroes(int* nums, int numsSize) {
     int nonzero = 0; // Pointer for non-zero elements
 
