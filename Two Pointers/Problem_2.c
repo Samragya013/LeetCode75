@@ -1,3 +1,15 @@
+Is Subsequence
+
+Category: Two Pointers
+
+What I Learned:
+
+✅ Applied two-pointer technique to check if one string is a subsequence of another
+✅ Handled edge cases like empty strings
+✅ Strengthened string traversal logic
+
+Code :
+
 #include <stdbool.h>
 #include <string.h>
 
