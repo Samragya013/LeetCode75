@@ -1,3 +1,15 @@
+Container With Most Water
+
+Category: Two Pointers
+    
+What I Learned:
+
+✅ Used two-pointer approach to solve an optimization problem in O(n) time
+✅ Learned how greedy decisions (moving smaller height inward) help in max-area problems
+✅ Practiced writing efficient, clean code for medium-level problems
+
+Code : 
+
 int min(int a, int b){
     if(a<=b) return a;
     return b;
